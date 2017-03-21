@@ -2,7 +2,7 @@ import time
 
 import pygame
 
-from src.TicTacToe import TicTacToe
+from TicTacToe import TicTacToe
 
 def initiate_game():
     size = 600, 600

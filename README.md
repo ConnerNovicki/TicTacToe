@@ -1,6 +1,19 @@
-# TicTacToe
+# Tic-Tac-Toe
 
-Must have pygame installed for this program to work. Can download here at http://www.pygame.org/download.shtml
+Must have python3 and pygame installed for this program to work.
 
-Make sure X.png and O.png are 150 pixels. 
-Make sure tic-tac-toe.png is 600 pixels.
+Go to https://www.python.org/downloads/windows/ and download python3.
+
+In terminal/command prompt, run:
+```
+pip install pygame
+```
+Clone this repository on your computer:
+```
+git clone https://github.com/ConnerNovicki/TicTacToe.git
+```
+cd into the folder it is in and run one of the following:
+```
+python Game.py
+python Game.py
+```
